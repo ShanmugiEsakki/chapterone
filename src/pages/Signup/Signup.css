@@ -1,0 +1,24 @@
+/* Signup.css */
+.signup-page {
+    background-color: #dbc6be;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .signup-paper {
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .signup-input {
+    margin: 1rem 0;
+  }
+  
+  .signup-button {
+    margin-top: 2rem;
+  }
+  
